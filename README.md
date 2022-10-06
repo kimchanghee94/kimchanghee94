@@ -2,3 +2,4 @@
 - 👀 I’m interested in weight exercise
 - 🌱 I’m currently learning Java
 - :school: Ajou University (2014.03 ~ 2020.02)
+- Blog. https://complicated-mind.tistory.com/
